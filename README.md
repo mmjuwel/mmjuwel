@@ -49,6 +49,7 @@ Senior Software Quality Assurance Engineer with **8+ years of experience** deliv
 Risk Adjustment Analytics (formerly Calcul8) delivers advanced risk adjustment algorithms supporting Managed Medicaid, ACA Commercial, and Medicare Advantage.
 
 **Key Contributions & Impact:**
+
 ✔ Led **MS SQL Server → Snowflake migration**  
 ✔ Ensured **100% data integrity**  
 ✔ Achieved **99.75% data accuracy validation**  
@@ -78,6 +79,7 @@ Snowflake, MS SQL Server, C#, .NET, MSTest, SQL
 Sage 50 is an accounting and payroll solution designed for SMEs.
 
 **Key Contributions & Impact:**
+
 ✔ Built and mentored QA team  
 ✔ Led QA activities ensuring stable releases  
 ✔ Defined test scope & validation strategy  
@@ -102,6 +104,7 @@ Sage 50 is an accounting and payroll solution designed for SMEs.
 Digital financial platform supporting Cash-In, Cash-Out, Send Money, Bill Payments,  Add Money, Remittance, Islamic Banking, etc.
 
 **Key Contributions & Impact:**
+
 ✔ Delivered features: **DKYC, Islamic Banking, Bill Payments, Remittance**  
 ✔ Developed automation for release stability  
 ✔ Supported high-volume production releases  
@@ -128,6 +131,7 @@ Selenium, Appium, TestNG, Java, Postman
 Enterprise solutions covering Accounting, Commercial, Inventory, Payroll, Attendance, etc.
 
 **Key Contributions & Impact:**
+
 ✔ Implemented ERP & HRM at client factories  
 ✔ Delivered **1 Million BDT monthly cost savings**  
 ✔ Designed scalable automation framework  
@@ -148,6 +152,7 @@ Enterprise solutions covering Accounting, Commercial, Inventory, Payroll, Attend
 **Domain:** E-Commerce / CMS
 
 **Key Contributions & Impact:**
+
 ✔ Delivered features: **Tax, Discount, Shipping Management**  
 ✔ Performed Functional & Regression Testing  
 ✔ Provided CMS training & documentation
