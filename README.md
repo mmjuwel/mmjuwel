@@ -163,12 +163,13 @@ Enterprise solutions covering Accounting, Commercial, Inventory, Payroll, Attend
 
 Experienced in designing and implementing **scalable automation frameworks**:
 
-✔ Web Automation – Selenium  
+✔ Web Automation – Selenium  /  Playwright   
 ✔ Mobile Automation – Appium  
-✔ Test Framework – TestNG / MSTest  
-✔ Languages – Java / C#  
-✔ Design Pattern – POM  
-✔ Build Tool – Maven
+✔ Test Framework – TestNG  /  Junit  /  MSTest  /  Nunit
+✔ BDD Framework – Cucumber  /  Rocknroll  
+✔ Languages – Java  /  C#  /  TypeScript
+✔ Design Pattern – POM  /  Fluent 
+✔ Build Tool – Maven  /  NuGet
 
 **Impact:**  
 Reduced regression effort, improved release stability, increased test coverage.
@@ -187,6 +188,7 @@ Reduced regression effort, improved release stability, increased test coverage.
 -   Database Testing
 -   Data Migration Testing
 -   Performance Testing
+-   Software Implementation 
     
 
 ----------
