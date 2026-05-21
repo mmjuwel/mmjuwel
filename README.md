@@ -169,7 +169,7 @@ Experienced in designing and implementing **scalable automation frameworks**:
 ✔ BDD Framework – Cucumber  /  Rocknroll  
 ✔ Languages – Java  /  C#  /  TypeScript
 ✔ Design Pattern – POM  /  Fluent 
-✔ Build Tool – Maven  /  NuGet
+✔ Build Tool – Maven  /  NuGet 
 
 **Impact:**  
 Reduced regression effort, improved release stability, increased test coverage.
